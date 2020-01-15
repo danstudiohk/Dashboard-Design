@@ -1,6 +1,26 @@
 # Dashboard Design Guideline
-#### Here is the place to store all materials for presentation purpose. available for PPT report in excel format and Dashboard in (Qlikview/Tableau)
+Here is the place to store all materials and experience for presentation or reporting purpose.
+
+## Tools
+- Excel
+- PPT
+- PDT
+- Qlikview
+- Tableau
+- D3.js
+
+
 ## Principles of Visual Design for Dashboards
+
+> "Form follows function"
+
+> "Rule of 3"
+
+> "No 3D chart"
+
+>
+
+## Dashboard / Chart Gallery
 
 
 ## icon pack
@@ -11,8 +31,11 @@
 ## Colors Palettes
 - https://colorhunt.co/
 
+![Material Design](color/Dashboard-Color-Palette.png)
 
-## PPT Framework
+![multi-hue](color/1-multi-hue-schemes-600x321.png)
 
 
-## Email Template
+
+## Bibles
+- **Storytelling with data: A Data visualization for Business Professionals** by Cole Nussbaumer Knaflic
